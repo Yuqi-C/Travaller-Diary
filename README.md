@@ -1,2 +1,2 @@
 # Travaller-Diary
-Built a simple webpage.
+See https://yuqi-c.github.io/page1.html.
